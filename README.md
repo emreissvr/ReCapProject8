@@ -1,2 +1,6 @@
 # ReCapProject 7 
-## Autofac Configuration
+> Autofac support
+> FluentValidation support
+> AOP support
+> ValidationAspect support
+
